@@ -48,4 +48,9 @@ Editor de diagramas UML, MER entre outros.
 ### [Oracle VirtualBox](https://www.virtualbox.org/)
 
 ### [WSL - Windows Subsystem Linux](https://learn.microsoft.com/pt-br/windows/wsl/install)
-Habilitar WSL.
+Habilitar WSL nas máquinas dos laboratórios dos cursos de BES e BSI.
+
+## Sistemas Operacionais
+
+## [Debian](https://www.debian.org/index.pt.html)
+Criar DualBoot com o Windows nas máquinas do laboratório de Sistemas Operacionais.
