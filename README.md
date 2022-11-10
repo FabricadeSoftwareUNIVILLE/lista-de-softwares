@@ -12,7 +12,7 @@ Instalar a versão mais recente disponível (Java 19).
 ## Ferramentas de Desenvolvimento
 
 ### [VSCode](https://code.visualstudio.com/)
-[Multilinguagens] Instalar pluguins extras. 
+Instalar pluguins extras. 
 
 **[Multi-linguagens, HTML, CSS, JS, Python]**
 
