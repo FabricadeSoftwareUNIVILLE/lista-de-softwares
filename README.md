@@ -4,6 +4,7 @@
 ## Ferramentas de Desenvolvimento
 
 ### [VSCode](https://code.visualstudio.com/)
+Instalar pluguins extras.
 
 ### [Fleet](https://www.jetbrains.com/fleet/)
 Instalação do Fleet é feita através do Toolbox App.
