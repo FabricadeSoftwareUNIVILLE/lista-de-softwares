@@ -33,11 +33,14 @@ Editor de diagramas UML, MER entre outros.
 
 ## Banco de Dados
 
-[PostGreSQL](https://www.postgresql.org/)
+### [PostGreSQL](https://www.postgresql.org/)
 
-[MysqlServer e MysqlWorkbench](https://dev.mysql.com/downloads/mysql/)
+### [MysqlServer e MysqlWorkbench](https://dev.mysql.com/downloads/mysql/)
 
 
 ## Virtualização
 
-[Oracle VirtualBox](https://www.virtualbox.org/)
+### [Oracle VirtualBox](https://www.virtualbox.org/)
+
+### [WSL - Windows Subsystem Linux](https://learn.microsoft.com/pt-br/windows/wsl/install)
+Habilitar WSL.
