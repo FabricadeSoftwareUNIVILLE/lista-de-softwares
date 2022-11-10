@@ -4,6 +4,11 @@
 
 ### [GIT](https://git-scm.com/)
 
+## Plataformas de Desenvolvimento
+
+### [Java]
+Instalar a versão mais recente disponível (Java 19).
+
 ## Ferramentas de Desenvolvimento
 
 ### [VSCode](https://code.visualstudio.com/)
