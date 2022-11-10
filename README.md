@@ -6,7 +6,7 @@
 
 ## Plataformas de Desenvolvimento
 
-### [Java]
+### [Java](https://www.oracle.com/br/java/technologies/downloads/)
 Instalar a versão mais recente disponível (Java 19).
 
 ## Ferramentas de Desenvolvimento
