@@ -36,3 +36,8 @@ Editor de diagramas UML, MER entre outros.
 [PostGreSQL](https://www.postgresql.org/)
 
 [MysqlServer e MysqlWorkbench](https://dev.mysql.com/downloads/mysql/)
+
+
+## Virtualização
+
+[Oracle VirtualBox](https://www.virtualbox.org/)
