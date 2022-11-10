@@ -5,11 +5,16 @@
 
 [VSCode](https://code.visualstudio.com/)
 
-[Fleet](https://www.jetbrains.com/fleet/)
+### [Fleet](https://www.jetbrains.com/fleet/)
 
-[Eclipse](https://www.eclipse.org/downloads/)
+Instalação do Fleet é feita através do Toolbox App.
 
-[Intellij IDEA](https://www.jetbrains.com/idea/)
+### [Eclipse](https://www.eclipse.org/downloads/)
+Instalar versão Eclipse for Java Developers.
+
+### [Intellij IDEA](https://www.jetbrains.com/idea/) 
+
+Instalar versão Ultimate. Os alunos conseguem obter uma licença de estudante com o email da univille.
 
 ## Editores de Diagramas
 
