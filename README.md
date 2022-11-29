@@ -3,6 +3,7 @@
 ## Ferramenta de Versionamento
 
 ### [GIT](https://git-scm.com/)
+### [GIT for windows](https://gitforwindows.org/)
 
 ## Plataformas de Desenvolvimento
 
