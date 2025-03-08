@@ -72,7 +72,7 @@ Instalar versão Ultimate. Os alunos conseguem obter uma licença de estudante c
 
 ### [Another Redis Desktop Manager](https://goanother.com/#download)
 
-### [MongoDB Compass](MongoDB Compass)
+### [MongoDB Compass](https://www.mongodb.com/try/download/compass)
 
 ## Virtualização
 
