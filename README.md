@@ -27,9 +27,11 @@
 ### [VSCode](https://code.visualstudio.com/)
 
 IMPORTANTE: ATALHO e pastas para Extensions
+
 ```
 "C:\Microsoft VS Code\Code.exe" --extensions-dir C:\Extensions
 ```
+
 Instalar pluguins extras.
 
 **[Multi-linguagens, HTML, CSS, JS, Python, Java Extension Pack]**
@@ -62,7 +64,15 @@ Instalar versão Ultimate. Os alunos conseguem obter uma licença de estudante c
 
 ### [SQL Server - nos labs do Prof. Rodrigo Dornel]
 
+### [Memurai](https://www.memurai.com/get-memurai)
+
+### [MongoDB](https://www.mongodb.com/try/download/community)
+
 ### [DB Browser](https://sqlitebrowser.org/dl/)
+
+### [Another Redis Desktop Manager](https://goanother.com/#download)
+
+### [MongoDB Compass](MongoDB Compass)
 
 ## Virtualização
 
